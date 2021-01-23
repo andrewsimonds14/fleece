@@ -1,0 +1,4 @@
+<svg id="icon_configuration" data-name="icon / configuration" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <rect id="frame" width="36" height="36" fill="none"/>
+  <path id="tune_1_" data-name="tune (1)" d="M3,28.6v3.657H13.971V28.6H3M3,6.657v3.657H21.285V6.657H3M21.285,35.912V32.255H35.912V28.6H21.285V24.941H17.628V35.912h3.657M10.314,13.971v3.657H3v3.657h7.314v3.657h3.657V13.971H10.314m25.6,7.314V17.628H17.628v3.657H35.912M24.941,13.971H28.6V10.314h7.314V6.657H28.6V3H24.941Z" transform="translate(-1.847 -1.065)" fill="#121212"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg id="icon_stop" data-name="icon / stop" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <rect id="frame" width="36" height="36" fill="none"/>
+  <rect id="frame-2" data-name="frame" width="36" height="36" fill="none"/>
+  <path id="pause-octagon" d="M28.46,3,39,13.54V28.46L28.46,39H13.54L3,28.46V13.54L13.54,3H28.46" transform="translate(-3 -3)" fill="#121212"/>
+  <path id="Path_526" data-name="Path 526" d="M20.559,6.567,18.992,5l-6.212,6.212L6.567,5,5,6.567l6.212,6.212L5,18.992l1.567,1.567,6.212-6.212,6.212,6.212,1.567-1.567-6.212-6.212Z" transform="translate(5.221 5.221)" fill="#fff" stroke="#fff" stroke-width="2"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="250" viewBox="0 0 280 250">
+  <g id="Group_599" data-name="Group 599" transform="translate(-480 -130)">
+    <g id="Group_541" data-name="Group 541" transform="translate(420.212 -90.43)">
+      <g id="Group_598" data-name="Group 598" transform="translate(101.5 239.5)">
+        <g id="Group_526">
+          <path id="Path_496" data-name="Path 496" d="M132.7,10.407c0-4.916-3.41-8.907-7.61-8.907H11.236c-4.2,0-7.61,3.991-7.61,8.907L-3.5,106.6c0,4.916,3.41,8.907,7.61,8.907H117.963c4.2,0,7.61-3.991,7.61-8.907Z" transform="translate(25.589 -1.5)" fill="none" stroke="#b1b1b1" stroke-width="3" fill-rule="evenodd"/>
+          <g id="Rectangle_261" transform="translate(0 0)">
+            <path id="Path_496-2" data-name="Path 496" d="M132.7,10.407c0-4.916-3.41-8.907-7.61-8.907h-111c-4.2,0-7.61,3.991-7.61,8.907L-3.5,106.6c0,4.916,3.41,8.907,7.61,8.907H116.538c4.2,0,9.036-5.416,9.036-10.332Z" transform="translate(3.5 -1.5)" fill="#fefefe" stroke="#b1b1b1" stroke-width="3" fill-rule="evenodd"/>
+          </g>
+          <path id="Path_504" data-name="Path 504" d="M34.032,4.076a2.412,2.412,0,0,0-2.2-2.576H-8.414a2.412,2.412,0,0,0-2.2,2.576L-13.5,31.893a2.412,2.412,0,0,0,2.2,2.576h41.07a2.412,2.412,0,0,0,2.2-2.576Z" transform="translate(81.503 64.576)" fill="#fefefe" stroke="#b1b1b1" stroke-width="3" fill-rule="evenodd"/>
+        </g>
+        <path id="Path_518" data-name="Path 518" d="M.4,0H65.749L78.23,17.963c1.658,2.382.772,5.506-2.926,7.566s-7.758,4.083-12.056,6.232c-3.9,1.95-8.051,3.3-11.667,3.249,0,0-26.495.506-51.179.877-7.918-.11-8.429.108-9.264-2.32s4.448-4,11.329-6.13c3.12-.968,8.565-2.9,11.294-3.989s2.341-3.961.925-5.484C14.677,17.942.4,0,.4,0Z" transform="translate(48.962 114.046)" fill="none" stroke="#b1b1b1" stroke-width="3"/>
+      </g>
+    </g>
+    <circle id="Ellipse_34" data-name="Ellipse 34" cx="49.5" cy="49.5" r="49.5" transform="translate(647 201)" fill="#c6c6c6"/>
+    <rect id="Rectangle_319" data-name="Rectangle 319" width="280" height="250" transform="translate(480 130)" fill="none"/>
+  </g>
+</svg>

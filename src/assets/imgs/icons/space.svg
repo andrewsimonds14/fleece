@@ -1,0 +1,4 @@
+<svg id="icon_space" data-name="icon / space" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <rect id="frame" width="36" height="36" transform="translate(0)" fill="none"/>
+  <path id="keyboard-space" d="M3,15H7v8H35V15h4v8a4.012,4.012,0,0,1-4,4H7a4.012,4.012,0,0,1-4-4Z" transform="translate(-3 6)" fill="#121212"/>
+</svg>

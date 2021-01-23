@@ -1,0 +1,4 @@
+<svg id="icon_timelapse" data-name="icon / timelapse" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <rect id="frame" width="36" height="36" fill="none"/>
+  <path id="timelapse" d="M19,32.6A13.6,13.6,0,1,1,32.6,19,13.6,13.6,0,0,1,19,32.6M19,2A17,17,0,1,0,36,19,17,17,0,0,0,19,2m7.208,9.792A10.114,10.114,0,0,0,19,8.8V19l-7.208,7.208A10.194,10.194,0,0,0,26.208,11.792Z" transform="translate(-1 -1)" fill="#121212"/>
+</svg>

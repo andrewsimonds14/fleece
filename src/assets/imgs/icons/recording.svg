@@ -1,0 +1,11 @@
+<svg id="icon_recording" data-name="icon / recording" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <rect id="frame" width="35.95" height="35" transform="translate(0 1)" fill="none"/>
+  <g id="Ellipse_52" data-name="Ellipse 52" transform="translate(9 9)" fill="none" stroke="#121212" stroke-width="9">
+    <circle cx="9" cy="9" r="9" stroke="none"/>
+    <circle cx="9" cy="9" r="4.5" fill="none"/>
+  </g>
+  <g id="Rectangle_277" data-name="Rectangle 277" fill="none" stroke="#121212" stroke-width="4">
+    <rect width="36" height="36" rx="18" stroke="none"/>
+    <rect x="2" y="2" width="32" height="32" rx="16" fill="none"/>
+  </g>
+</svg>

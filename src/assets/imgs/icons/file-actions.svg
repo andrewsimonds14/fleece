@@ -1,0 +1,4 @@
+<svg id="icon_file_actions" data-name="icon / file actions" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <rect id="frame" width="36" height="36" fill="none"/>
+  <path id="file-settings-outline" d="M6.816,0A2.816,2.816,0,0,0,4,2.816V25.34a2.816,2.816,0,0,0,2.816,2.816H23.709a2.816,2.816,0,0,0,2.816-2.816V8.447L18.078,0H6.816m0,2.816H16.67V9.855h7.039V25.34H6.816V2.816M6.631,30.947v3.816h3.816V30.947H6.631m6.631,0v3.816h3.816V30.947H13.262m6.631,0v3.816h3.816V30.947Z" transform="translate(3 1)" fill="#121212"/>
+</svg>

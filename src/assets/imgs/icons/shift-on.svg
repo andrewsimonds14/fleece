@@ -1,0 +1,4 @@
+<svg id="icon_shift_on" data-name="icon / shift on" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <rect id="frame" width="36" height="36" transform="translate(0)" fill="none"/>
+  <path id="apple-keyboard-shift" d="M20,4,38,22H29V32.8H11V22H2Z" transform="translate(-2 -0.4)" fill="#121212"/>
+</svg>

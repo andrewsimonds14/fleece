@@ -1,0 +1,12 @@
+<svg id="icon_accessory_mode" data-name="icon / accessory mode" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <rect id="frame" width="35.95" height="35" transform="translate(0.05 1)" fill="none"/>
+  <g id="vector">
+    <g id="Rectangle_170" data-name="Rectangle 170" transform="translate(0 3)" fill="none" stroke="#121212" stroke-width="3">
+      <rect width="36" height="33" rx="4" stroke="none"/>
+      <rect x="1.5" y="1.5" width="33" height="30" rx="2.5" fill="none"/>
+    </g>
+    <line id="Line_69" data-name="Line 69" x2="31" transform="translate(2.5 31.5)" fill="none" stroke="#121212" stroke-linecap="round" stroke-width="4"/>
+    <rect id="Rectangle_171" data-name="Rectangle 171" width="7" height="11" rx="2" transform="translate(9)" fill="#121212"/>
+    <path id="Path_512" data-name="Path 512" d="M19.582-1.544l-6.695-18H7.343L.56-1.544H5.1L6.576-5.825h6.872l1.475,4.281ZM12.357-9.151H7.638l2.271-6.834h.147Z" transform="translate(12.038 31.544)" fill="#121212"/>
+  </g>
+</svg>

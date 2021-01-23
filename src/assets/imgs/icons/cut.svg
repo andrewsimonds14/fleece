@@ -1,0 +1,18 @@
+<svg id="icon_cut" data-name="icon / cut" xmlns="http://www.w3.org/2000/svg" width="51" height="36" viewBox="0 0 51 36">
+  <rect id="frame" width="36" height="36" transform="translate(7.5)" fill="none"/>
+  <rect id="Rectangle_255" data-name="Rectangle 255" width="12" height="4" transform="translate(0 16)" fill="#121212"/>
+  <rect id="Rectangle_256" data-name="Rectangle 256" width="15" height="4" transform="translate(36 16)" fill="#121212"/>
+  <g id="Group_525" data-name="Group 525" transform="translate(9 1.5)">
+    <g id="Rectangle_259" data-name="Rectangle 259" transform="translate(8 3)" fill="#fff" stroke="#121212" stroke-width="3">
+      <rect width="12" height="27" stroke="none"/>
+      <rect x="1.5" y="1.5" width="9" height="24" fill="none"/>
+    </g>
+    <line id="Line_120" data-name="Line 120" x2="9.466" transform="translate(8.5 10.5)" fill="none" stroke="#121212" stroke-width="3"/>
+    <line id="Line_123" data-name="Line 123" x2="9.466" transform="translate(8.5 22.5)" fill="none" stroke="#121212" stroke-width="3"/>
+    <line id="Line_121" data-name="Line 121" x2="9.466" transform="translate(8.5 16.5)" fill="none" stroke="#121212" stroke-width="3"/>
+    <g id="Rectangle_260" data-name="Rectangle 260" transform="translate(3 3.05)" fill="#fff" stroke="#121212" stroke-width="3">
+      <rect width="8" height="27" stroke="none"/>
+      <rect x="1.5" y="1.5" width="5" height="24" fill="none"/>
+    </g>
+  </g>
+</svg>
